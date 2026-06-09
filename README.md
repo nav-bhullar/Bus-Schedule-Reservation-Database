@@ -17,3 +17,9 @@ Features:
 - Ticket reservations
 - Seat availability calculation
 - JOIN queries for reporting
+
+  # Bus Schedule & Reservation Database System
+
+## Entity Relationship Diagram
+
+![ER Diagram](ER_Diagram.png)
